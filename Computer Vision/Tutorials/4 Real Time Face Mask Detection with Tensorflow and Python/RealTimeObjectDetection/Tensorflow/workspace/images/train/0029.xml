@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>0029.jpg</filename>
+	<path>E:\Courses\AI\projects\AI\DL\CV\Basics\4 Real Time Face Mask Detection with Tensorflow and Python\RealTimeObjectDetection\Tensorflow\workspace\images\images\0029.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>443</xmin>
+			<ymin>145</ymin>
+			<xmax>569</xmax>
+			<ymax>251</ymax>
+		</bndbox>
+	</object>
+</annotation>
