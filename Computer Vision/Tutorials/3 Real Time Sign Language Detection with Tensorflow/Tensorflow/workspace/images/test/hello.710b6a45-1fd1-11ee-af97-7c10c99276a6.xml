@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>hello.710b6a45-1fd1-11ee-af97-7c10c99276a6.jpg</filename>
+	<path>E:\Courses\AI\projects\AI\DL\CV\Basics\3 Real Time Sign Language Detection with Tensorflow\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\hello.710b6a45-1fd1-11ee-af97-7c10c99276a6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>206</ymin>
+			<xmax>380</xmax>
+			<ymax>476</ymax>
+		</bndbox>
+	</object>
+</annotation>

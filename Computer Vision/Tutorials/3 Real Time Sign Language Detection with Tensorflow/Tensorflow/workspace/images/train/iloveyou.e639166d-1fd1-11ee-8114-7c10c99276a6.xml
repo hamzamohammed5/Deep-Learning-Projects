@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>iloveyou.e639166d-1fd1-11ee-8114-7c10c99276a6.jpg</filename>
+	<path>E:\Courses\AI\projects\AI\DL\CV\Basics\3 Real Time Sign Language Detection with Tensorflow\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\iloveyou.e639166d-1fd1-11ee-8114-7c10c99276a6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>I Love Yoy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>208</ymin>
+			<xmax>277</xmax>
+			<ymax>388</ymax>
+		</bndbox>
+	</object>
+</annotation>
