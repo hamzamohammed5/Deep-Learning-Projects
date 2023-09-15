@@ -1,0 +1,23 @@
+The mdels used in this project are:
+-----------------------------------
+1- media pipe holistic (to extract key points from our hand, body and face)
+2- LSTM model builded by tensorflow and keras (to predict the action which is being shown on the screen, in this cas the actions are sign language signs)
+LSTM used for timeseries predictions
+we will  put them all together to predict signs in real time
+
+---------------------------------------------------------------------------------------------------------------
+Flow:
+--------
+1- Import Dependencies
+2- Making Keypoints Using MP Holistic
+3- Collecting Keypoints for Training and Testing in Folders
+4- Extract Keypoint Values
+5- Preprocess Data and Create Labels and Features
+6- Build and Train the Model
+7- Evaluating the Model
+8- Saving Weights
+9- Testing in Real Time
+-----------------------------------------------
+Note:
+------
+the refined code has more stable prediction, the Adjusted lines are in the testing section
