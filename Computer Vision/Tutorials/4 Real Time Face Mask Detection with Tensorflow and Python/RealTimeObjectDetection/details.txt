@@ -1,1 +1,0 @@
-single shot detector mobile net v2 fpm light 320x320 coco 17 tpu 
